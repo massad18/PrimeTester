@@ -18,8 +18,7 @@ public class PrimeTester {
             return false;
         }
         else {
-
-        }
+            return true;
         }
     }
 }
